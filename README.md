@@ -1,8 +1,8 @@
-# [GoSolo] 🎯
+# GoSolo🎯
 
 
 ## Basic Details
-### Team Name: [Byte]
+### Team Name: Byte
 
 
 ### Team Members
@@ -26,18 +26,13 @@ planning for a trip? update it on the app and find your travel buddy to make it 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Flutter,
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Flutter and Firebase(didnt get enough time to connect)
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+ios and android
 
 ### Implementation
-For Software:
+For Software: 
 # Installation
 [commands]
 
@@ -92,9 +87,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Ruba : Home page
+- Sahadiya : signup screen
+- Thooba : signin screen
 
 ---
 Made with ❤️ at TinkerHub

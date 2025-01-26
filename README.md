@@ -1,31 +1,32 @@
-# [Project Name] 🎯
+# [GoSolo] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Byte]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Ruba Ummer - MESCE, Kuttippuram]
+- Member 2: Sahadiya M - MESCE, Kuttippuram
+- Member 3: Thooba Shanoj - MESCE, Kuttippuram
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+A travelling based app exclusively for solo travellers to connect with like minded people to travel together to the same destination.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Oh shucks I'm stuck: Adventure without the anxiety 
+Exploring solo should feel exciting not scary.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+planning for a trip? update it on the app and find your travel buddy to make it more memorable.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- Flutter,
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
